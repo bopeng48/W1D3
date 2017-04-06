@@ -1,0 +1,46 @@
+
+
+function f(x) {
+  x.y = 2
+}
+
+o = {};
+
+
+o.y
+y
+o[y]
+o['y']
+
+o[_____]
+
+int x;
+int[] a = [1, x = 2, 3]
+
+var b = 2;
+var o = {
+  b = 4
+}
+
+int f(int a) {
+  for (int i = 0 ; ;) {
+    var x;
+  }
+}
+
+f()
+
+
+var f = function (){
+}
+
+function f(){}
+
+// suppose C is a constructor
+var c = new C();
+
+
+
+char x = chr(96);
+char y = 'a'
+{}
